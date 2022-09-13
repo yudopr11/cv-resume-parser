@@ -64,4 +64,4 @@ Extract information from various resume or cv format into json format.
 ```
 
 ## Notes
-To detect colleges, majors, skills, and work experience based on reference files. If it is not detected, it can be added to the reference files.
+To detect colleges, majors, skills, and working experience based on reference files. If it is not detected, it can be added to the reference files.
