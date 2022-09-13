@@ -1,5 +1,5 @@
 # cv-resume-parser
-Extract information from resume or cv into json format.
+Extract information from various resume or cv format into json format.
 
 ## Extracted Information
 - filepath
