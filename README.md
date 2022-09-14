@@ -18,7 +18,7 @@ Extract information from various resume or cv format into json format.
 {
   "filepath": "/content/drive/MyDrive/Project/!Playground/CV/Yudho Prakoso-resume.pdf",
   "created": "2022-09-13 22:00:35.039562+07:00",
-  "photo": "/content/drive/MyDrive/Project/!Playground/Face/Yudho Prakoso-resume.pdf.jpg",
+  "face_photo": "/content/drive/MyDrive/Project/!Playground/Face/Yudho Prakoso-resume.pdf.jpg",
   "phone_number": "82214886517",
   "email": "yudopr10@gmail.com",
   "estimated_working_year_experience": "4",
