@@ -22,7 +22,7 @@ Extract information from various resume or cv format into json format.
   "phone_number": "82214886517",
   "email": "yudopr10@gmail.com",
   "estimated_working_year_experience": "4",
-  "working_experience": [
+  "work_experience": [
     "lead",
     "tutor"
   ],
