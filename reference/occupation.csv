@@ -1,967 +1,822 @@
-accountant
-actor
-actuary
-acupuncturist
-acute care nurse
-adapted physical education specialist
-adhesive bonding machine operators and tender
-administrative law judge
-administrative services manager
-adult basic education
-advanced practice psychiatric nurse
-advertising and promotions manager
-advertising sales agent
-aerospace engineer
-aerospace engineering and operations technologists and technician
-agents and business managers of artist
-agricultural engineer
-agricultural equipment operator
-agricultural inspector
-agricultural sciences teacher
-agricultural technician
-agricultural worker
-air crew member
-air crew officer
-air traffic controller
-aircraft cargo handling supervisor
-aircraft launch and recovery officer
-aircraft launch and recovery specialist
-aircraft mechanics and service technician
-aircraft service attendant
-aircraft structure
-airfield operations specialist
-airline pilot
-allergists and immunologist
-ambulance drivers and attendant
-amusement and recreation attendant
-anesthesiologist
-anesthesiologist assistant
-animal breeder
-animal caretaker
-animal control worker
-animal scientist
-animal trainer
-anthropologists and archeologist
-anthropology and archeology teacher
-appraisers and assessors of real estate
-appraisers of personal and business property
-arbitrator
-architect
-architectural and civil drafter
-architectural and engineering manager
-architecture teacher
-archivist
-armored assault vehicle crew member
-armored assault vehicle officer
-art director
-art therapist
-artillery and missile crew member
-artillery and missile officer
-artists and related worker
-assemblers and fabricator
-astronomer
-athletes and sports competitor
-athletic trainer
-atmospheric
-atmospheric and space scientist
-audio and video technician
-audiologist
-audiovisual equipment installers and repairer
-auditor
-automotive and watercraft service attendant
-automotive body and related repairer
-automotive engineer
-automotive engineering technician
-automotive glass installers and repairer
-automotive service technicians and mechanic
-aviation inspector
-avionics technician
-baggage porters and bellhop
-bailiff
-baker
-barber
-barista
-bartender
-bicycle repairer
-bill and account collector
-billing and posting clerk
-biochemists and biophysicist
-bioengineers and biomedical engineer
-biofuels processing technician
-biofuels production manager
-biofuels/biodiesel technology and product development manager
-bioinformatics scientist
-bioinformatics technician
-biological science teacher
-biological scientist
-biological technician
-biologist
-biomass plant technician
-biomass power plant manager
-biostatistician
-blockchain engineer
-boilermaker
-bookkeeping
-brickmasons and blockmason
-bridge and lock tender
-broadcast announcers and radio disc jockey
-broadcast technician
-brokerage clerk
-brownfield redevelopment specialists and site manager
-budget analyst
-building cleaning worker
-bus and truck mechanics and diesel engine specialist
-bus driver
-business continuity planner
-business intelligence analyst
-business operations specialist
-business teacher
-butchers and meat cutter
-buyers and purchasing agent
-cabinetmakers and bench carpenter
-calibration technologists and technician
-camera and photographic equipment repairer
-camera operator
-captain
-cardiologist
-cardiovascular technologists and technician
-career/technical education teacher
-cargo and freight agent
-carpenter
-carpet installer
-cartographers and photogrammetrist
-cashier
-cement masons and concrete finisher
-chefs and head cook
-chemical engineer
-chemical equipment operators and tender
-chemical plant and system operator
-chemical technician
-chemist
-chemistry teacher
-chief executive
-chief sustainability officer
-child
-childcare worker
-chiropractor
-choreographer
-civil engineer
-civil engineering technologists and technician
-claims adjuster
-cleaners of vehicles and equipment
-cleaning
-clergy
-climate change policy analyst
-clinical and counseling psychologist
-clinical data manager
-clinical neuropsychologist
-clinical nurse specialist
-clinical research coordinator
-coaches and scout
-coating
-coil winder
-coin
-command and control center officer
-command and control center specialist
-commercial and industrial designer
-commercial diver
-commercial pilot
-communications equipment operator
-communications teacher
-community and social service specialist
-community health worker
-compensation
-compensation and benefits manager
-compliance manager
-compliance officer
-computer and information research scientist
-computer and information systems manager
-computer hardware engineer
-computer network architect
-computer network support specialist
-computer numerically controlled tool operator
-computer numerically controlled tool programmer
-computer occupation
-computer programmer
-computer science teacher
-computer systems analyst
-computer systems engineers/architect
-computer user support specialist
-concierge
-conservation scientist
-construction and building inspector
-construction and related worker
-construction laborer
-construction manager
-content creator
-continuous mining machine operator
-control and valve installers and repairer
-conveyor operators and tender
-cook
-cooling and freezing equipment operators and tender
-coroner
-correctional officers and jailer
-correspondence clerk
-cost estimator
-costume attendant
-counselor
-counter and rental clerk
-couriers and messenger
-court reporters and simultaneous captioner
-craft artist
-crane and tower operator
-credit analyst
-credit authorizer
-credit counselor
-crematory operator
-criminal justice and law enforcement teacher
-critical care nurse
-crossing guards and flagger
-curator
-customer service representative
-customs and border protection officer
-customs broker
-cutters and trimmer
-cutting and slicing machine setter
-cytogenetic technologist
-cytotechnologist
-dancer
-data entry keyer
-data scientist
-data warehousing specialist
-database administrator
-database architect
-demonstrators and product promoter
-dental assistant
-dental hygienist
-dental laboratory technician
-dentist
-dermatologist
-derrick operator
-designer
-desktop publisher
-detectives and criminal investigator
-diagnostic medical sonographer
-dietetic technician
-dietitians and nutritionist
-digital forensics analyst
-dining room and cafeteria attendants and bartender helper
-director
-disc jockey
-dishwasher
-dispatcher
-document management specialist
-door-to-door sales workers
-drafter
-dredge operator
-drilling and boring machine tool setter
-driver/sales worker
-drywall and ceiling tile installer
-earth driller
-economics teacher
-economist
-editor
-education administrator
-education and childcare administrator
-education teacher
-educational instruction and library worker
-electric motor
-electrical and electronic engineering technologists and technician
-electrical and electronic equipment assembler
-electrical and electronics drafter
-electrical and electronics installers and repairer
-electrical and electronics repairer
-electrical engineer
-electrical power-line installers and repairer
-electrician
-electro-mechanical and mechatronics technologists and technician
-electromechanical equipment assembler
-electronic equipment installers and repairer
-electronics engineer
-elementary school teacher
-elevator and escalator installers and repairer
-eligibility interviewer
-embalmer
-emergency management director
-emergency medical technician
-emergency medicine physician
-endoscopy technician
-energy auditor
-energy engineer
-engine and other machine assembler
-engineer
-engineering teacher
-engineering technologists and technician
-english language and literature teacher
-entertainers and performer
-entertainment and recreation manager
-entertainment attendants and related worker
-environmental compliance inspector
-environmental economist
-environmental engineer
-environmental engineering technologists and technician
-environmental restoration planner
-environmental science and protection technician
-environmental science teacher
-environmental scientists and specialist
-epidemiologist
-equal opportunity representatives and officer
-etchers and engraver
-excavating and loading machine and dragline operator
-executive secretaries and executive administrative assistant
-exercise physiologist
-exercise trainers and group fitness instructor
-explosives worker
-extraction worker
-extruding and drawing machine setter
-extruding and forming machine setter
-fabric and apparel patternmaker
-facilities manager
-faller
-family and consumer sciences teacher
-family medicine physician
-farm and home management educator
-farm equipment mechanics and service technician
-farm labor contractor
-farmer
-farmworker
-farmworkers and laborer
-fashion designer
-fast food and counter worker
-fence erector
-fiberglass laminators and fabricator
-file clerk
-film and video editor
-financial and investment analyst
-financial clerk
-financial examiner
-financial manager
-financial quantitative analyst
-financial risk specialist
-financial specialist
-fine artist
-fire inspectors and investigator
-firefighter
-fire-prevention and protection engineer
-first-line supervisors of air crew member
-first-line supervisors of all other tactical operations specialist
-first-line supervisors of construction trades and extraction worker
-first-line supervisors of correctional officer
-first-line supervisors of entertainment and recreation worker
-first-line supervisors of farming
-first-line supervisors of firefighting and prevention worker
-first-line supervisors of food preparation and serving worker
-first-line supervisors of gambling services worker
-first-line supervisors of helper
-first-line supervisors of housekeeping and janitorial worker
-first-line supervisors of landscaping
-first-line supervisors of material-moving machine and vehicle operator
-first-line supervisors of mechanic
-first-line supervisors of non-retail sales worker
-first-line supervisors of office and administrative support worker
-first-line supervisors of passenger attendant
-first-line supervisors of personal service worker
-first-line supervisors of police and detective
-first-line supervisors of production and operating worker
-first-line supervisors of protective service worker
-first-line supervisors of retail sales worker
-first-line supervisors of security worker
-first-line supervisors of transportation worker
-first-line supervisors of weapons specialists/crew member
-fish and game warden
-fishing and hunting worker
-fitness and wellness coordinator
-flight attendant
-floor layer
-floor sanders and finisher
-floral designer
-food and tobacco roasting
-food batchmaker
-food cooking machine operators and tender
-food preparation and serving related worker
-food preparation worker
-food processing worker
-food science technician
-food scientists and technologist
-food server
-food service manager
-foreign language and literature teacher
-forensic science technician
-forest and conservation technician
-forest and conservation worker
-forest fire inspectors and prevention specialist
-forester
-forestry and conservation science teacher
-forging machine setter
-foundry mold and coremaker
-fraud examiner
-freight forwarder
-fuel cell engineer
-fundraiser
-fundraising manager
-funeral attendant
-funeral home manager
-furniture finisher
-gambling and sports book writers and runner
-gambling cage worker
-gambling change persons and booth cashier
-gambling dealer
-gambling manager
-gambling service worker
-gambling surveillance officers and gambling investigator
-gas compressor and gas pumping station operator
-gas plant operator
-gem and diamond worker
-general affair
-general and operations manager
-general internal medicine physician
-genetic counselor
-geneticist
-geodetic surveyor
-geographer
-geographic information systems technologists and technician
-geography teacher
-geological technician
-geoscientist
-geothermal production manager
-geothermal technician
-glass blower
-glazier
-government property inspectors and investigator
-graders and sorter
-graphic designer
-grinding and polishing worker
-grounds maintenance worker
-hairdresser
-hazardous materials removal worker
-health and safety engineer
-health education specialist
-health informatics specialist
-health information technologists and medical registrar
-health specialties teacher
-health technologists and technician
-healthcare diagnosing or treating practitioner
-healthcare practitioners and technical worker
-healthcare social worker
-healthcare support worker
-hearing aid specialist
-heat treating equipment setter
-heavy and tractor-trailer truck driver
-helper
-helpers--brickmason
-helpers--carpenter
-helpers--electrician
-helpers--extraction worker
-helpers--installation
-helpers--painter
-helpers--pipelayer
-helpers--production worker
-helpers--roofer
-highway maintenance worker
-histology technician
-historian
-history teacher
-histotechnologist
-hoist and winch operator
-home appliance repairer
-home health aide
-hospitalist
-hosts and hostess
-human factors engineers and ergonomist
-human resources assistant
-human resources manager
-human resources specialist
-hydroelectric plant technician
-hydroelectric production manager
-hydrologic technician
-hydrologist
-industrial ecologist
-industrial engineer
-industrial engineering technologists and technician
-industrial machinery mechanic
-industrial production manager
-industrial truck and tractor operator
-industrial-organizational psychologist
-infantry
-infantry officer
-information and record clerk
-information security analyst
-information security engineer
-information technology project manager
-inspector
-instructional coordinator
-insulation worker
-insurance appraiser
-insurance claims and policy processing clerk
-insurance sales agent
-insurance underwriter
-intelligence analyst
-interior designer
-intern
-interpreters and translator
-interviewer
-investment fund manager
-janitors and cleaner
-jewelers and precious stone and metal worker
-judge
-judicial law clerk
-kindergarten teacher
-labor relations specialist
-laborers and freight
-landscape architect
-landscaping and groundskeeping worker
-lathe and turning machine tool setter
-laundry and dry-cleaning worker
-law teacher
-lawyer
-layout worker
-lead
-legal secretaries and administrative assistant
-legal support worker
-legislator
-librarians and media collections specialist
-library assistant
-library science teacher
-library technician
-licensed practical and licensed vocational nurse
-life scientist
-lifeguard
-light truck driver
-lighting technician
-loading and moving machine operator
-loan interviewers and clerk
-loan officer
-locker room
-locksmiths and safe repairer
-locomotive engineer
-lodging manager
-log graders and scaler
-logging equipment operator
-logging worker
-logistician
-logistics analyst
-logistics engineer
-loss prevention manager
-low vision therapist
-machine feeders and offbearer
-machinist
-magnetic resonance imaging technologist
-maids and housekeeping cleaner
-mail clerks and mail machine operator
-maintenance and repair worker
-maintenance worker
-makeup artist
-management analyst
-manager
-manicurists and pedicurist
-manufactured building and mobile home installer
-manufacturing engineer
-marine engineers and naval architect
-market research analysts and marketing specialist
-marketing manager
-marriage and family therapist
-massage therapist
-material moving worker
-materials engineer
-materials scientist
-mathematical science occupation
-mathematical science teacher
-mathematician
-mechanical door repairer
-mechanical drafter
-mechanical engineer
-mechanical engineering technologists and technician
-mechatronics engineer
-media and communication equipment worker
-media and communication worker
-media programming director
-media technical directors/manager
-medical and clinical laboratory technician
-medical and clinical laboratory technologist
-medical and health services manager
-medical appliance technician
-medical assistant
-medical dosimetrist
-medical equipment preparer
-medical equipment repairer
-medical records specialist
-medical scientist
-medical secretaries and administrative assistant
-medical transcriptionist
-mental health and substance abuse social worker
-mental health counselor
-merchandise displayers and window trimmer
-metal workers and plastic worker
-metal-refining furnace operators and tender
-meter reader
-microbiologist
-microsystems engineer
-middle school teacher
-midwife
-military enlisted tactical operations and air/weapons specialists and crew member
-military officer special and tactical operations leader
-milling and planing machine setter
-millwright
-mining and geological engineer
-mixing and blending machine setter
-mobile heavy equipment mechanic
-model
-model maker
-molecular and cellular biologist
-mortician
-motion picture projectionist
-motor vehicle operator
-motorboat mechanics and service technician
-motorboat operator
-motorcycle mechanic
-multiple machine tool setter
-museum technicians and conservator
-music directors and composer
-music therapist
-musical instrument repairers and tuner
-musicians and singer
-nanny
-nanosystems engineer
-nanotechnology engineering technologists and technician
-natural sciences manager
-naturopathic physician
-network and computer systems administrator
-neurodiagnostic technologist
-neurologist
-neuropsychologist
-new accounts clerk
-news analyst
-non-destructive testing specialist
-nuclear engineer
-nuclear medicine technologist
-nuclear monitoring technician
-nuclear power reactor operator
-nuclear technician
-nurse anesthetist
-nurse midwife
-nurse practitioner
-nursing assistant
-nursing instructors and teacher
-obstetricians and gynecologist
-occupational health and safety specialist
-occupational health and safety technician
-occupational therapist
-occupational therapy aide
-occupational therapy assistant
-office and administrative support worker
-office clerk
-office machine operator
-online merchant
-operating engineers and other construction equipment operator
-operations research analyst
-ophthalmic laboratory technician
-ophthalmic medical technician
-ophthalmic medical technologist
-ophthalmologist
-optician
-optometrist
-oral and maxillofacial surgeon
-order clerk
-orderly
-orthodontist
-orthopedic surgeon
-orthoptist
-orthotists and prosthetist
-outdoor power equipment and other small engine mechanic
-packaging and filling machine operators and tender
-packers and packager
-painter
-paper goods machine setter
-paperhanger
-paralegals and legal assistant
-paramedic
-park naturalist
-parking attendant
-parking enforcement worker
-parts salesperson
-passenger attendant
-patient representative
-patternmaker
-payroll and timekeeping clerk
-pediatric surgeon
-pediatrician
-penetration tester
-personal care aide
-personal care and service worker
-personal financial advisor
-personal service manager
-pest control worker
-pesticide handler
-petroleum engineer
-petroleum pump system operator
-pharmacist
-pharmacy aide
-pharmacy technician
-philosophy and religion teacher
-phlebotomist
-photographer
-photographic process workers and processing machine operator
-photonics engineer
-photonics technician
-physical medicine and rehabilitation physician
-physical scientist
-physical therapist
-physical therapist aide
-physical therapist assistant
-physician
-physician assistant
-physicist
-physics teacher
-pile driver operator
-pipelayer
-plant and system operator
-plasterers and stucco mason
-plating machine setter
-plumber
-podiatrist
-police and sheriff's patrol officer
-police identification and records officer
-political science teacher
-political scientist
-postal service clerk
-postal service mail carrier
-postal service mail sorter
-postmasters and mail superintendent
-postsecondary teacher
-potter
-pourers and caster
-power distributors and dispatcher
-power plant operator
-precision agriculture technician
-precision instrument and equipment repairer
-prepress technicians and worker
-preschool teacher
-presser
-preventive medicine physician
-print binding and finishing worker
-printing press operator
-private detectives and investigator
-probation officers and correctional treatment specialist
-procurement clerk
-producers and director
-production worker
-project management specialist
-proofreaders and copy marker
-prosthodontist
-protective service worker
-psychiatric aide
-psychiatric technician
-psychiatrist
-psychologist
-psychology teacher
-public relations manager
-public relations specialist
-public safety telecommunicator
-pump operator
-purchasing agent
-purchasing manager
-quality control analyst
-quality control systems manager
-radiation therapist
-radio frequency identification device specialist
-radiologic technologists and technician
-radiologist
-rail car repairer
-rail transportation worker
-rail yard engineer
-railroad brake
-railroad conductors and yardmaster
-rail-track laying and maintenance equipment operator
-range manager
-real estate broker
-real estate sales agent
-receptionists and information clerk
-recreation and fitness studies teacher
-recreation worker
-recreational therapist
-recreational vehicle service technician
-recycling and reclamation worker
-recycling coordinator
-refractory materials repairer
-refuse and recyclable material collector
-registered nurse
-regulatory affairs manager
-regulatory affairs specialist
-rehabilitation counselor
-reinforcing iron and rebar worker
-religious worker
-remote sensing scientists and technologist
-remote sensing technician
-reservation and transportation ticket agents and travel clerk
-residential advisor
-respiratory therapist
-retail loss prevention specialist
-retail salesperson
-rigger
-robotics engineer
-robotics technician
-rock splitter
-rolling machine setter
-roof bolter
-roofer
-rotary drill operator
-roustabout
-sailors and marine oiler
-sales and related worker
-sales engineer
-sales manager
-sales representative
-sales representatives of service
-sawing machine setter
-school bus monitor
-school psychologist
-search marketing strategist
-secondary school teacher
-secretaries and administrative assistant
-security
-security and fire alarm systems installer
-security guard
-security management specialist
-security manager
-segmental paver
-self-enrichment teacher
-semiconductor processing technician
-separating
-septic tank servicers and sewer pipe cleaner
-service unit operator
-set and exhibit designer
-sewing machine operator
-shampooer
-sheet metal worker
-ship engineer
-shoe and leather workers and repairer
-shoe machine operators and tender
-shuttle drivers and chauffeur
-signal and track switch repairer
-skincare specialist
-slaughterers and meat packer
-social and community service manager
-social and human service assistant
-social science research assistant
-social sciences teacher
-social scientists and related worker
-social work teacher
-social worker
-sociologist
-sociology teacher
-software developer
-software quality assurance analysts and tester
-soil and plant scientist
-solar energy installation manager
-solar energy systems engineer
-solar photovoltaic installer
-solar sales representatives and assessor
-solar thermal installers and technician
-sound engineering technician
-spa manager
-special education teacher
-special effects artists and animator
-special force
-special forces officer
-speech-language pathologist
-speech-language pathology assistant
-sports medicine physician
-stationary engineers and boiler operator
-statistical assistant
-statistician
-stockers and order filler
-stone cutters and carver
-stonemason
-structural iron and steel worker
-structural metal fabricators and fitter
-substance abuse and behavioral disorder counselor
-substitute teacher
-subway and streetcar operator
-supply chain manager
-surgeon
-surgical assistant
-surgical technologist
-survey researcher
-surveying and mapping technician
-surveyor
-sustainability specialist
-switchboard operator
-tailor
-talent director
-taper
-tax examiners and collector
-tax preparer
-taxi driver
-teachers and instructor
-teaching assistant
-team assembler
-team lead
-technical writer
-telecommunications engineering specialist
-telecommunications equipment installers and repairer
-telecommunications line installers and repairer
-telemarketer
-telephone operator
-teller
-terrazzo workers and finisher
-textile bleaching and dyeing machine operators and tender
-textile cutting machine setter
-textile knitting and weaving machine setter
-textile winding
-therapist
-tile and stone setter
-timing device assemblers and adjuster
-tire builder
-tire repairers and changer
-title examiner
-tool and die maker
-tool grinder
-tour guides and escort
-traffic technician
-training and development manager
-training and development specialist
-transit and railroad polouse
-transportation engineer
-transportation inspector
-transportation planner
-transportation security screener
-transportation vehicle
-transportation worker
-travel agent
-travel guide
-treasurers and controller
-tree trimmers and pruner
-tutor
-umpire
-underground mining machine operator
-upholsterer
-urban and regional planner
-urologist
-usher
-validation engineer
-veterinarian
-veterinary assistants and laboratory animal caretaker
-veterinary technologists and technician
-video game designer
-waiters and waitress
-watch and clock repairer
-water and wastewater treatment plant and system operator
-water resource specialist
-water/wastewater engineer
-weatherization installers and technician
-web administrator
-web and digital interface designer
-web developer
-weigher
-welder
-wellhead pumper
-wholesale and retail buyer
-wind energy development manager
-wind energy engineer
-wind energy operations manager
-wind turbine service technician
-woodworker
-woodworking machine setter
-word processors and typist
-writers and author
-zoologists and wildlife biologist
+specific,general
+acute care nurse,accountant
+adapted physical education specialist,actor
+adhesive bonding machine operators and tender,actuary
+administrative law judge,acupuncturist
+administrative services manager,analyst
+adult basic education,anesthesiologist
+advanced practice psychiatric nurse,arbitrator
+advertising and promotions manager,architect
+advertising sales agent,archivist
+aerospace engineer,astronomer
+aerospace engineering and operations technologists and technician,atmospheric
+agents and business managers of artist,audiologist
+agricultural engineer,auditor
+agricultural equipment operator,bailiff
+agricultural inspector,baker
+agricultural sciences teacher,barber
+agricultural technician,barista
+agricultural worker,bartender
+air crew member,biologist
+air crew officer,biostatistician
+air traffic controller,boilermaker
+aircraft cargo handling supervisor,bookkeeping
+aircraft launch and recovery officer,captain
+aircraft launch and recovery specialist,cardiologist
+aircraft mechanics and service technician,carpenter
+aircraft service attendant,cashier
+aircraft structure,chemist
+airfield operations specialist,chiropractor
+airline pilot,choreographer
+allergists and immunologist,clergy
+ambulance drivers and attendant,concierge
+amusement and recreation attendant,cook
+anesthesiologist assistant,counselor
+animal breeder,consultant
+animal caretaker,curator
+animal control worker,dancer
+animal scientist,dentist
+animal trainer,dermatologist
+anthropologists and archeologist,designer
+anthropology and archeology teacher,developer
+appraisers and assessors of real estate,director
+appraisers of personal and business property,dishwasher
+architectural and civil drafter,dispatcher
+architectural and engineering manager,drafter
+architecture teacher,economist
+armored assault vehicle crew member,editor
+armored assault vehicle officer,electrician
+art director,embalmer
+art therapist,engineer
+artillery and missile crew member,epidemiologist
+artillery and missile officer,faller
+artists and related worker,farmer
+assemblers and fabricator,farmworker
+athletes and sports competitor,firefighter
+athletic trainer,forester
+atmospheric and space scientist,fundraiser
+audio and video technician,geneticist
+audiovisual equipment installers and repairer,geographer
+automotive and watercraft service attendant,geoscientist
+automotive body and related repairer,glazier
+automotive engineer,hairdresser
+automotive engineering technician,head
+automotive glass installers and repairer,helper
+automotive service technicians and mechanic,historian
+aviation inspector,histotechnologist
+avionics technician,hospitalist
+baggage porters and bellhop,hydrologist
+bicycle repairer,infantry
+bill and account collector,inspector
+billing and posting clerk,intern
+biochemists and biophysicist,interviewer
+bioengineers and biomedical engineer,judge
+biofuels processing technician,lawyer
+biofuels production manager,lead
+biofuels/biodiesel technology and product development manager,legislator
+bioinformatics scientist,lifeguard
+bioinformatics technician,logistician
+biological science teacher,machinist
+biological scientist,manager
+biological technician,mathematician
+biomass plant technician,microbiologist
+biomass power plant manager,midwife
+blockchain engineer,millwright
+brickmasons and blockmason,model
+bridge and lock tender,mortician
+broadcast announcers and radio disc jockey,nanny
+broadcast technician,neurologist
+brokerage clerk,ophthalmologist
+brownfield redevelopment specialists and site manager,optician
+budget analyst,optometrist
+building cleaning worker,orderly
+bus and truck mechanics and diesel engine specialist,orthodontist
+bus driver,orthoptist
+business continuity planner,painter
+business intelligence analyst,paperhanger
+business operations specialist,paramedic
+business teacher,patternmaker
+butchers and meat cutter,pediatrician
+buyers and purchasing agent,pharmacist
+cabinetmakers and bench carpenter,phlebotomist
+calibration technologists and technician,photographer
+camera and photographic equipment repairer,physician
+camera operator,physicist
+cardiovascular technologists and technician,pipelayer
+career/technical education teacher,plumber
+cargo and freight agent,podiatrist
+carpet installer,potter
+cartographers and photogrammetrist,presser
+cement masons and concrete finisher,programmer
+chefs and head cook,prosthodontist
+chemical engineer,psychiatrist
+chemical equipment operators and tender,psychologist
+chemical plant and system operator,radiologist
+chemical technician,rigger
+chemistry teacher,roofer
+chief executive,roustabout
+chief sustainability officer,security
+childcare worker,separating
+civil engineer,shampooer
+civil engineering technologists and technician,sociologist
+claims adjuster,statistician
+cleaners of vehicles and equipment,stonemason
+climate change policy analyst,surgeon
+clinical and counseling psychologist,surveyor
+clinical data manager,tailor
+clinical neuropsychologist,taper
+clinical nurse specialist,teacher
+clinical research coordinator,telemarketer
+coaches and scout,teller
+coil winder,therapist
+command and control center officer,tutor
+command and control center specialist,upholsterer
+commercial and industrial designer,urologist
+commercial diver,usher
+commercial pilot,veterinarian
+communications equipment operator,weigher
+communications teacher,welder
+community and social service specialist,woodworker
+community health worker,
+compensation and benefits manager,
+compliance manager,
+compliance officer,
+computer and information research scientist,
+computer and information systems manager,
+computer hardware engineer,
+computer network architect,
+computer network support specialist,
+computer numerically controlled tool operator,
+computer numerically controlled tool programmer,
+computer occupation,
+computer programmer,
+computer science teacher,
+computer systems analyst,
+computer systems engineers/architect,
+computer user support specialist,
+conservation scientist,
+construction and building inspector,
+construction and related worker,
+construction laborer,
+construction manager,
+content creator,
+continuous mining machine operator,
+control and valve installers and repairer,
+conveyor operators and tender,
+cooling and freezing equipment operators and tender,
+coroner,
+correctional officers and jailer,
+correspondence clerk,
+cost estimator,
+costume attendant,
+counter and rental clerk,
+couriers and messenger,
+court reporters and simultaneous captioner,
+craft artist,
+crane and tower operator,
+credit analyst,
+credit authorizer,
+credit counselor,
+crematory operator,
+criminal justice and law enforcement teacher,
+critical care nurse,
+crossing guards and flagger,
+customer service representative,
+customs and border protection officer,
+customs broker,
+cutters and trimmer,
+cutting and slicing machine setter,
+cytogenetic technologist,
+cytotechnologist,
+data entry keyer,
+data scientist,
+data warehousing specialist,
+database administrator,
+database architect,
+demonstrators and product promoter,
+dental assistant,
+dental hygienist,
+dental laboratory technician,
+derrick operator,
+desktop publisher,
+detectives and criminal investigator,
+diagnostic medical sonographer,
+dietetic technician,
+dietitians and nutritionist,
+digital forensics analyst,
+dining room and cafeteria attendants and bartender helper,
+disc jockey,
+document management specialist,
+door-to-door sales workers,
+dredge operator,
+drilling and boring machine tool setter,
+driver/sales worker,
+drywall and ceiling tile installer,
+earth driller,
+economics teacher,
+education administrator,
+education and childcare administrator,
+education teacher,
+educational instruction and library worker,
+electric motor,
+electrical and electronic engineering technologists and technician,
+electrical and electronic equipment assembler,
+electrical and electronics drafter,
+electrical and electronics installers and repairer,
+electrical and electronics repairer,
+electrical engineer,
+electrical power-line installers and repairer,
+electro-mechanical and mechatronics technologists and technician,
+electromechanical equipment assembler,
+electronic equipment installers and repairer,
+electronics engineer,
+elementary school teacher,
+elevator and escalator installers and repairer,
+eligibility interviewer,
+emergency management director,
+emergency medical technician,
+emergency medicine physician,
+endoscopy technician,
+energy auditor,
+energy engineer,
+engine and other machine assembler,
+engineering teacher,
+engineering technologists and technician,
+english language and literature teacher,
+entertainers and performer,
+entertainment and recreation manager,
+entertainment attendants and related worker,
+environmental compliance inspector,
+environmental economist,
+environmental engineer,
+environmental engineering technologists and technician,
+environmental restoration planner,
+environmental science and protection technician,
+environmental science teacher,
+environmental scientists and specialist,
+equal opportunity representatives and officer,
+etchers and engraver,
+excavating and loading machine and dragline operator,
+executive secretaries and executive administrative assistant,
+exercise physiologist,
+exercise trainers and group fitness instructor,
+explosives worker,
+extraction worker,
+extruding and drawing machine setter,
+extruding and forming machine setter,
+fabric and apparel patternmaker,
+facilities manager,
+family and consumer sciences teacher,
+family medicine physician,
+farm and home management educator,
+farm equipment mechanics and service technician,
+farm labor contractor,
+farmworkers and laborer,
+fashion designer,
+fast food and counter worker,
+fence erector,
+fiberglass laminators and fabricator,
+file clerk,
+film and video editor,
+financial and investment analyst,
+financial clerk,
+financial examiner,
+financial manager,
+financial quantitative analyst,
+financial risk specialist,
+financial specialist,
+fine artist,
+fire inspectors and investigator,
+fire-prevention and protection engineer,
+first-line supervisors of air crew member,
+first-line supervisors of all other tactical operations specialist,
+first-line supervisors of construction trades and extraction worker,
+first-line supervisors of correctional officer,
+first-line supervisors of entertainment and recreation worker,
+first-line supervisors of farming,
+first-line supervisors of firefighting and prevention worker,
+first-line supervisors of food preparation and serving worker,
+first-line supervisors of gambling services worker,
+first-line supervisors of helper,
+first-line supervisors of housekeeping and janitorial worker,
+first-line supervisors of landscaping,
+first-line supervisors of material-moving machine and vehicle operator,
+first-line supervisors of mechanic,
+first-line supervisors of non-retail sales worker,
+first-line supervisors of office and administrative support worker,
+first-line supervisors of passenger attendant,
+first-line supervisors of personal service worker,
+first-line supervisors of police and detective,
+first-line supervisors of production and operating worker,
+first-line supervisors of protective service worker,
+first-line supervisors of retail sales worker,
+first-line supervisors of security worker,
+first-line supervisors of transportation worker,
+first-line supervisors of weapons specialists/crew member,
+fish and game warden,
+fishing and hunting worker,
+fitness and wellness coordinator,
+flight attendant,
+floor layer,
+floor sanders and finisher,
+floral designer,
+food and tobacco roasting,
+food batchmaker,
+food cooking machine operators and tender,
+food preparation and serving related worker,
+food preparation worker,
+food processing worker,
+food science technician,
+food scientists and technologist,
+food server,
+food service manager,
+foreign language and literature teacher,
+forensic science technician,
+forest and conservation technician,
+forest and conservation worker,
+forest fire inspectors and prevention specialist,
+forestry and conservation science teacher,
+forging machine setter,
+foundry mold and coremaker,
+fraud examiner,
+freight forwarder,
+fuel cell engineer,
+fundraising manager,
+funeral attendant,
+funeral home manager,
+furniture finisher,
+gambling and sports book writers and runner,
+gambling cage worker,
+gambling change persons and booth cashier,
+gambling dealer,
+gambling manager,
+gambling service worker,
+gambling surveillance officers and gambling investigator,
+gas compressor and gas pumping station operator,
+gas plant operator,
+gem and diamond worker,
+general affair,
+general and operations manager,
+general internal medicine physician,
+genetic counselor,
+geodetic surveyor,
+geographic information systems technologists and technician,
+geography teacher,
+geological technician,
+geothermal production manager,
+geothermal technician,
+glass blower,
+government property inspectors and investigator,
+graders and sorter,
+graphic designer,
+grinding and polishing worker,
+grounds maintenance worker,
+hazardous materials removal worker,
+health and safety engineer,
+health education specialist,
+health informatics specialist,
+health information technologists and medical registrar,
+health specialties teacher,
+health technologists and technician,
+healthcare diagnosing or treating practitioner,
+healthcare practitioners and technical worker,
+healthcare social worker,
+healthcare support worker,
+hearing aid specialist,
+heat treating equipment setter,
+heavy and tractor-trailer truck driver,
+highway maintenance worker,
+histology technician,
+history teacher,
+hoist and winch operator,
+home appliance repairer,
+home health aide,
+hosts and hostess,
+human factors engineers and ergonomist,
+human resources assistant,
+human resources manager,
+human resources specialist,
+hydroelectric plant technician,
+hydroelectric production manager,
+hydrologic technician,
+industrial ecologist,
+industrial engineer,
+industrial engineering technologists and technician,
+industrial machinery mechanic,
+industrial production manager,
+industrial truck and tractor operator,
+industrial-organizational psychologist,
+infantry officer,
+information and record clerk,
+information security analyst,
+information security engineer,
+information technology project manager,
+instructional coordinator,
+insulation worker,
+insurance appraiser,
+insurance claims and policy processing clerk,
+insurance sales agent,
+insurance underwriter,
+intelligence analyst,
+interior designer,
+interpreters and translator,
+investment fund manager,
+janitors and cleaner,
+jewelers and precious stone and metal worker,
+judicial law clerk,
+kindergarten teacher,
+labor relations specialist,
+laborers and freight,
+landscape architect,
+landscaping and groundskeeping worker,
+lathe and turning machine tool setter,
+laundry and dry-cleaning worker,
+law teacher,
+layout worker,
+legal secretaries and administrative assistant,
+legal support worker,
+librarians and media collections specialist,
+library assistant,
+library science teacher,
+library technician,
+licensed practical and licensed vocational nurse,
+life scientist,
+light truck driver,
+lighting technician,
+loading and moving machine operator,
+loan interviewers and clerk,
+loan officer,
+locker room,
+locksmiths and safe repairer,
+locomotive engineer,
+lodging manager,
+log graders and scaler,
+logging equipment operator,
+logging worker,
+logistics analyst,
+logistics engineer,
+loss prevention manager,
+low vision therapist,
+machine feeders and offbearer,
+magnetic resonance imaging technologist,
+maids and housekeeping cleaner,
+mail clerks and mail machine operator,
+maintenance and repair worker,
+maintenance worker,
+makeup artist,
+management analyst,
+manicurists and pedicurist,
+manufactured building and mobile home installer,
+manufacturing engineer,
+marine engineers and naval architect,
+market research analysts and marketing specialist,
+marketing manager,
+marriage and family therapist,
+massage therapist,
+material moving worker,
+materials engineer,
+materials scientist,
+mathematical science occupation,
+mathematical science teacher,
+mechanical door repairer,
+mechanical drafter,
+mechanical engineer,
+mechanical engineering technologists and technician,
+mechatronics engineer,
+media and communication equipment worker,
+media and communication worker,
+media programming director,
+media technical directors/manager,
+medical and clinical laboratory technician,
+medical and clinical laboratory technologist,
+medical and health services manager,
+medical appliance technician,
+medical assistant,
+medical dosimetrist,
+medical equipment preparer,
+medical equipment repairer,
+medical records specialist,
+medical scientist,
+medical secretaries and administrative assistant,
+medical transcriptionist,
+mental health and substance abuse social worker,
+mental health counselor,
+merchandise displayers and window trimmer,
+metal workers and plastic worker,
+metal-refining furnace operators and tender,
+meter reader,
+microsystems engineer,
+middle school teacher,
+military enlisted tactical operations and air/weapons specialists and crew member,
+military officer special and tactical operations leader,
+milling and planing machine setter,
+mining and geological engineer,
+mixing and blending machine setter,
+mobile heavy equipment mechanic,
+model maker,
+molecular and cellular biologist,
+motion picture projectionist,
+motor vehicle operator,
+motorboat mechanics and service technician,
+motorboat operator,
+motorcycle mechanic,
+multiple machine tool setter,
+museum technicians and conservator,
+music directors and composer,
+music therapist,
+musical instrument repairers and tuner,
+musicians and singer,
+nanosystems engineer,
+nanotechnology engineering technologists and technician,
+natural sciences manager,
+naturopathic physician,
+network and computer systems administrator,
+neurodiagnostic technologist,
+neuropsychologist,
+new accounts clerk,
+news analyst,
+non-destructive testing specialist,
+nuclear engineer,
+nuclear medicine technologist,
+nuclear monitoring technician,
+nuclear power reactor operator,
+nuclear technician,
+nurse anesthetist,
+nurse midwife,
+nurse practitioner,
+nursing assistant,
+nursing instructors and teacher,
+obstetricians and gynecologist,
+occupational health and safety specialist,
+occupational health and safety technician,
+occupational therapist,
+occupational therapy aide,
+occupational therapy assistant,
+office and administrative support worker,
+office clerk,
+office machine operator,
+online merchant,
+operating engineers and other construction equipment operator,
+operations research analyst,
+ophthalmic laboratory technician,
+ophthalmic medical technician,
+ophthalmic medical technologist,
+oral and maxillofacial surgeon,
+order clerk,
+orthopedic surgeon,
+orthotists and prosthetist,
+outdoor power equipment and other small engine mechanic,
+packaging and filling machine operators and tender,
+packers and packager,
+paper goods machine setter,
+paralegals and legal assistant,
+park naturalist,
+parking attendant,
+parking enforcement worker,
+parts salesperson,
+passenger attendant,
+patient representative,
+payroll and timekeeping clerk,
+pediatric surgeon,
+penetration tester,
+personal care aide,
+personal care and service worker,
+personal financial advisor,
+personal service manager,
+pest control worker,
+pesticide handler,
+petroleum engineer,
+petroleum pump system operator,
+pharmacy aide,
+pharmacy technician,
+philosophy and religion teacher,
+photographic process workers and processing machine operator,
+photonics engineer,
+photonics technician,
+physical medicine and rehabilitation physician,
+physical scientist,
+physical therapist,
+physical therapist aide,
+physical therapist assistant,
+physician assistant,
+physics teacher,
+pile driver operator,
+plant and system operator,
+plasterers and stucco mason,
+plating machine setter,
+police and sheriff's patrol officer,
+police identification and records officer,
+political science teacher,
+political scientist,
+postal service clerk,
+postal service mail carrier,
+postal service mail sorter,
+postmasters and mail superintendent,
+postsecondary teacher,
+pourers and caster,
+power distributors and dispatcher,
+power plant operator,
+precision agriculture technician,
+precision instrument and equipment repairer,
+prepress technicians and worker,
+preschool teacher,
+preventive medicine physician,
+print binding and finishing worker,
+printing press operator,
+private detectives and investigator,
+probation officers and correctional treatment specialist,
+procurement clerk,
+producers and director,
+production worker,
+project management specialist,
+proofreaders and copy marker,
+protective service worker,
+psychiatric aide,
+psychiatric technician,
+psychology teacher,
+public relations manager,
+public relations specialist,
+public safety telecommunicator,
+pump operator,
+purchasing agent,
+purchasing manager,
+quality control analyst,
+quality control systems manager,
+radiation therapist,
+radio frequency identification device specialist,
+radiologic technologists and technician,
+rail car repairer,
+rail transportation worker,
+rail yard engineer,
+rail-track laying and maintenance equipment operator,
+railroad brake,
+railroad conductors and yardmaster,
+range manager,
+real estate broker,
+real estate sales agent,
+receptionists and information clerk,
+recreation and fitness studies teacher,
+recreation worker,
+recreational therapist,
+recreational vehicle service technician,
+recycling and reclamation worker,
+recycling coordinator,
+refractory materials repairer,
+refuse and recyclable material collector,
+registered nurse,
+regulatory affairs manager,
+regulatory affairs specialist,
+rehabilitation counselor,
+reinforcing iron and rebar worker,
+religious worker,
+remote sensing scientists and technologist,
+remote sensing technician,
+reservation and transportation ticket agents and travel clerk,
+residential advisor,
+respiratory therapist,
+retail loss prevention specialist,
+retail salesperson,
+robotics engineer,
+robotics technician,
+rock splitter,
+rolling machine setter,
+roof bolter,
+rotary drill operator,
+sailors and marine oiler,
+sales and related worker,
+sales engineer,
+sales manager,
+sales representative,
+sales representatives of service,
+sawing machine setter,
+school bus monitor,
+school psychologist,
+search marketing strategist,
+secondary school teacher,
+secretaries and administrative assistant,
+security and fire alarm systems installer,
+security guard,
+security management specialist,
+security manager,
+segmental paver,
+self-enrichment teacher,
+semiconductor processing technician,
+septic tank servicers and sewer pipe cleaner,
+service unit operator,
+set and exhibit designer,
+sewing machine operator,
+sheet metal worker,
+ship engineer,
+shoe and leather workers and repairer,
+shoe machine operators and tender,
+shuttle drivers and chauffeur,
+signal and track switch repairer,
+skincare specialist,
+slaughterers and meat packer,
+social and community service manager,
+social and human service assistant,
+social science research assistant,
+social sciences teacher,
+social scientists and related worker,
+social work teacher,
+social worker,
+sociology teacher,
+software developer,
+software quality assurance analysts and tester,
+soil and plant scientist,
+solar energy installation manager,
+solar energy systems engineer,
+solar photovoltaic installer,
+solar sales representatives and assessor,
+solar thermal installers and technician,
+sound engineering technician,
+spa manager,
+special education teacher,
+special effects artists and animator,
+special force,
+special forces officer,
+speech-language pathologist,
+speech-language pathology assistant,
+sports medicine physician,
+stationary engineers and boiler operator,
+statistical assistant,
+stockers and order filler,
+stone cutters and carver,
+structural iron and steel worker,
+structural metal fabricators and fitter,
+substance abuse and behavioral disorder counselor,
+substitute teacher,
+subway and streetcar operator,
+supply chain manager,
+surgical assistant,
+surgical technologist,
+survey researcher,
+surveying and mapping technician,
+sustainability specialist,
+switchboard operator,
+talent director,
+tax examiners and collector,
+tax preparer,
+taxi driver,
+teachers and instructor,
+teaching assistant,
+team assembler,
+team lead,
+technical writer,
+telecommunications engineering specialist,
+telecommunications equipment installers and repairer,
+telecommunications line installers and repairer,
+telephone operator,
+teller,
+textile bleaching and dyeing machine operators and tender,
+textile cutting machine setter,
+textile knitting and weaving machine setter,
+textile winding,
+tile and stone setter,
+timing device assemblers and adjuster,
+tire builder,
+tire repairers and changer,
+title examiner,
+tool and die maker,
+tool grinder,
+tour guides and escort,
+traffic technician,
+training and development manager,
+training and development specialist,
+transit and railroad polouse,
+transportation engineer,
+transportation inspector,
+transportation planner,
+transportation security screener,
+transportation vehicle,
+transportation worker,
+travel agent,
+travel guide,
+treasurers and controller,
+tree trimmers and pruner,
+umpire,
+underground mining machine operator,
+urban and regional planner,
+validation engineer,
+veterinary assistants and laboratory animal caretaker,
+veterinary technologists and technician,
+video game designer,
+waiters and waitress,
+watch and clock repairer,
+water and wastewater treatment plant and system operator,
+water resource specialist,
+water/wastewater engineer,
+weatherization installers and technician,
+web administrator,
+web and digital interface designer,
+web developer,
+wellhead pumper,
+wholesale and retail buyer,
+wind energy development manager,
+wind energy engineer,
+wind energy operations manager,
+wind turbine service technician,
+woodworking machine setter,
+word processors and typist,
+writers and author,
+zoologists and wildlife biologist,
